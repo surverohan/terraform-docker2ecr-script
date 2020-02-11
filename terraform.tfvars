@@ -1,0 +1,8 @@
+AWS_ACCOUNT_ID=063537312074
+AWS_REGION="us-east-1"
+AWS_ACCESS_KEY="AKIAQ5SY6OFFOGBEN4PS"
+AWS_SECRET_KEY="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"
+ECR_URL_REPO="https://github.com/surverohan/terraform-docker-ecr.git"
+DOCKER_PATH=""
+DOCKER_IMAGE_TAG =""
+
