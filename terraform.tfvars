@@ -2,7 +2,7 @@ AWS_ACCOUNT_ID=313182395386
 AWS_REGION="us-east-1"
 AWS_ACCESS_KEY="AKIAUR2ZADP5HTG3YF5U"
 AWS_SECRET_KEY="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"
-ECR_URL_REPO="313182395386.dkr.ecr.us-east-1.amazonaws.com/test"
+ECR_REPO="poc"
 DOCKER_PATH="C:/Users/rohan/Downloads/graphql/graphqlpoc"
 DOCKER_IMAGE_TAG ="developmentv2"
 

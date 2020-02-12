@@ -1,4 +1,4 @@
-variable "ECR_URL_REPO" {
+variable "ECR_REPO" {
   type = string
 
 }
