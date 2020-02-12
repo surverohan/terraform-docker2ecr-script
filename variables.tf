@@ -3,7 +3,7 @@ variable "ECR_URL_REPO" {
 
 }
 
-variable "DOCKER_folder" {
+variable "DOCKER_PATH" {
   type        = string
 }
 

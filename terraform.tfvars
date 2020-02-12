@@ -1,8 +1,8 @@
-AWS_ACCOUNT_ID=063537312074
+AWS_ACCOUNT_ID=313182395386
 AWS_REGION="us-east-1"
-AWS_ACCESS_KEY="AKIAQ5SY6OFFOGBEN4PS"
-AWS_SECRET_KEY="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"
-ECR_URL_REPO="https://github.com/surverohan/terraform-docker-ecr.git"
-DOCKER_PATH=""
-DOCKER_IMAGE_TAG =""
+AWS_ACCESS_KEY="AKIAUR2ZADP5HTG3YF5U"
+AWS_SECRET_KEY="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"
+ECR_URL_REPO="313182395386.dkr.ecr.us-east-1.amazonaws.com/test"
+DOCKER_PATH="C:/Users/rohan/Downloads/graphql/graphqlpoc"
+DOCKER_IMAGE_TAG ="developmentv2"
 
